@@ -1,7 +1,5 @@
 # CircleCI Cheatsheet
 
-![](https://imgur.com/s6aXKl9.png)
-
 **1. Introduction:**
 
 - CircleCI is a continuous integration and delivery platform that automates the build, test, and deploy processes, allowing for quick and efficient development workflows.
